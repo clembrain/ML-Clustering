@@ -84,7 +84,7 @@ Figure 6: The Above dendogram shows the result of hierarchical merging using War
 
 ---
 
-![hierarchical_clustering ](/photo/hierarchical_clustering.png)
+![hierarchical_clustering ](/photo/Kmeans_cluster2.png)
 Figure 7: Visualisation of Hierarchical clustering in 2D scatter pot.
 
 ---
