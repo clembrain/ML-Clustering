@@ -46,7 +46,7 @@ Figure 2: The code above creates a pairplot to visualize some relationships amon
 ---
 
 ![corrplot](/photo/corrplot.png) 
-Figure 3: Above is the correlation matrix for cleaned data, where the correlation between Balance and Cash deposit is “0.33”.
+Figure 3: Above is the correlation matrix for raw data, where the correlation between Balance and Cash deposit is “0.33”.
 
 ---
 
@@ -115,7 +115,7 @@ By integrating both **K-Means** and **Hierarchical Clustering**, this project pr
 ## 📁 [Click to See Supporting Code & Notebooks](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Clustering%20Project)
 
 📧 **Contact**: C.O.Airohuodion@edu.salford.ac.uk  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
+🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/clement-airiohuodion-268279220)  
 🔗 **GitHub**: [github.com/Clemobrain](https://github.com/Clemobrain)
 
 ---
