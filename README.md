@@ -5,8 +5,9 @@
 **Author:** Clement Airohuodion  
 
 ---
+## 🔍 [View Full Project Files](https://github.com/Clemobrain/Clem_Portfolio/blob/main/Big%20Data%20And%20Machine%20learning%20Project)
 
-## 🔍 Project Overview
+
 
 This project demonstrates how clustering — a powerful unsupervised learning technique — can be used to identify customer segments in the competitive world of **online retail**, specifically in the **footwear industry**. The goal is to support **data-driven decisions** in marketing, credit strategy, and customer retention.
 
